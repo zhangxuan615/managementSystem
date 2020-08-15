@@ -1,5 +1,5 @@
 import React from 'react';
-import Com1 from './component/Com1';
+import Com1 from './component/Test';
 
 function App() {
   return (
